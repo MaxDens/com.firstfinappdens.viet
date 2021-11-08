@@ -1,68 +1,50 @@
 {
 "quizMainMenu":[
   {
-    "question":"При каком уровне дохода на одного члена семьи в месяц нужно начинать планирование семейного бюджета?",
-    "answer1":"От 7000 до 15000 рублей",
-    "answer2":"От 15000 до 30000 рублей",
-    "answer3":"От 30000 до 100000 рублей",
-    "answer4":"Независимо от уровня дохода",
-    "right_answer":"Независимо от уровня дохода",
-    "explanation": "Планирование семейного бюджета - это важная часть рационального использования денег, которой надо заниматься в не зависимости от уровня дохода"
+    "question":"Tại những gì mức thu nhập mỗi thành viên gia đình mỗi tháng bạn nên bắt đầu lập kế hoạch ngân sách gia đình?",
+    "answer1":"Từ 2 000K VND 3 500K VND",
+    "answer2":"Từ 3 500K VND 5 000K VND",
+    "answer3":"Từ 5 000K VND 10 000K VND",
+    "answer4":"Bất kể mức thu nhập",
+    "right_answer":"Bất kể mức thu nhập",
+    "explanation": "Ngân sách gia đình kế hoạch là một phần quan trọng của việc sử dụng hợp lý tiền, mà phải được thực hiện bất kể mức thu nhập"
    },
   {
-    "question":"Сколько денег необходимо откладывать на финансовую подушку безопасности?",
-    "answer1":"Месячная зарплата",
-    "answer2":"2-3 месячные зарплаты",
-    "answer3":"Чем больше тем лучше",
-    "answer4":"«Финансовая подушка» не нужна. Зачем?",
-    "right_answer":"2-3 месячные зарплаты",
-    "explanation": "Подушка безопасности должна покрывать экстренные расходы и составлять от 2-3 месячных заработных плат"
+    "question":"Bao nhiêu tiền tôi nên đặt sang một bên cho một tài chính đệm an toàn?",
+    "answer1":"Tiền lương hàng tháng",
+    "answer2":"2-3 tiền lương hàng tháng",
+    "answer3":"Càng tốt hơn",
+    "answer4":"Một "tài chính đệm" là không cần thiết. Để làm gì?",
+    "right_answer":"2-3 tiền lương hàng tháng",
+    "explanation": "Các túi khí, nên bao gồm khẩn cấp các chi phí và tiền để 2-3 tiền lương hàng tháng"
    },
   {
-    "question":"Если Вы решили взять кредит, на что в первую очередь следует обратить внимание?",
-    "answer1":"На полную стоимость кредита",
-    "answer2":"На величину процентной ставки",
-    "answer3":"На ежемесячный платеж",
-    "answer4":"На все вышеназванное",
-    "right_answer":"На полную стоимость кредита",
-    "explanation": "Полная стоимость кредита часто умалчивается кредитными организациям, но на неё стоит обратить внимание, потому что это именна та сумма, которую вы заплатите"
+    "question":"Nếu anh quyết định đi ra ngoài một khoản vay, những gì bạn nên chú ý đến đầu tiên?",
+    "answer1":"Cho đầy đủ các chi phí của các khoản vay",
+    "answer2":"Bởi số lượng tỷ lệ lãi suất",
+    "answer3":"Cho một thanh toán hàng tháng",
+    "answer4":"Cho tất cả những điều trên",
+    "right_answer":"Cho đầy đủ các chi phí của các khoản vay",
+    "explanation": "Đầy đủ các chi phí của các khoản vay thường giữ im lặng bởi tổ chức tín dụng, nhưng nó là đáng chú ý, bởi vì đây là danh nghĩa số tiền đó bạn sẽ phải trả"
    },
   {
-    "question":"Какой максимальный процент по кредиту в России?",
-    "answer1":"82% годовых",
-    "answer2":"365% годовых",
-    "answer3":"37% годовых",
-    "answer4":"1000% годовых",
-    "right_answer":"365% годовых",
-    "explanation": "В России максимально разрешенный процент по кредиту 1% в день, т.е. 365% годовых"
+    "question":"Là gì lãi suất tối đa trên một khoản vay ở Việt nam?",
+    "answer1":"82% mỗi năm",
+    "answer2":"365% mỗi năm",
+    "answer3":"37% mỗi năm",
+    "answer4":"1000% mỗi năm",
+    "right_answer":"365% mỗi năm",
+    "explanation": "Ở Việt nam, tối đa cho phép quan tâm về một khoản vay là 1% mỗi ngày, tức là 365% mỗi năm"
    },
   {
-    "question":"Как увеличить вероятность одобрения кредита?",
-    "answer1":"Подать заявку в несколько кредитных организаций",
-    "answer2":"Вавысить сумму своего дохода",
-    "answer3":"Выбрать организацию с более высоким процентом",
-    "answer4":"Подать заявку только в одну кредитную организацию",
-    "right_answer":"Подать заявку в несколько кредитных организаций",
-    "explanation": "Все кредитные организации принимают решения о выдаче кредита независимо друг от друга, поэтому подача заявок в разные организации сильно повышает вероятность одобрения"
-   },
-  {
-    "question":"Что является признаками мошеннической финансовой организации",
-    "answer1":"Обещание высокой доходности, в несколько раз превышающей рыночный уровень",
-    "answer2":"Отсутствие лицензии ФСФР России или ЦБ России",
-    "answer3":"Массированная реклама в СМИ, сети Интернет с обещанием высокой доходности",
-    "answer4":"Все эти признаки",
-    "right_answer":"Отсутствие лицензии ФСФР России или ЦБ России",
-    "explanation": "Лицензия ФСФР России и ЦБ России это один из главных показателей надежности финансовой организации"
-   },
-  {
-    "question":"Куда обращаться с жалобой/претензией для защиты своих прав как потребителя финансовых услуг?",
-    "answer1":"Роспотребнадзор",
-    "answer2":"Общество защиты прав потребителя",
-    "answer3":"Центральный банк России",
-    "answer4":"Во все вышеперечисленные организации",
-    "right_answer":"Во все вышеперечисленные организации",
-    "explanation": "Все 4 организации занимаются обработкой жалоб/претензий по вопросам финансовых услуг"
+    "question":"Làm thế nào để tăng khả năng chấp thuận cho vay?",
+    "answer1":"Áp dụng cho nhiều tổ chức tín dụng",
+    "answer2":"Tăng thu nhập của bạn",
+    "answer3":"Chọn một tổ chức với một tỷ lệ cao hơn",
+    "answer4":"Áp dụng đối với chỉ một tổ chức tín dụng",
+    "right_answer":"Áp dụng cho nhiều tổ chức tín dụng",
+    "explanation": "Tất cả thẻ tín dụng, các tổ chức đưa ra quyết định cấp một khoản vay độc lập với nhau, nên gửi các ứng dụng cho các tổ chức khác nhau rất nhiều tăng khả năng chấp thuận"
    }
 ],
-"quizComplete":"Поздравляем, вы отлично прошли викторину! Теперь мы дарим вам лайфхак: если оставить минимум 3 заявки в разные компании, то вероятность одобрение суммы до 130 000 тенге будет 96%" 
+"quizComplete":"Chúc mừng, cậu đã qua được bài kiểm tra hoàn hảo! Bây giờ chúng tôi cung cấp cho bạn một cuộc sống hack: nếu bạn để lại ít nhất 3 ứng dụng vào công ty khác nhau, thì xác suất của sự chấp thuận của số tiền lên đến 10 000K VND sẽ được 96%" 
 }
